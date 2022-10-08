@@ -15,4 +15,13 @@ public class Movement : MonoBehaviour
     {
         
     }
+
+    public void Thrusting()
+    {
+        
+    }
+    public void Rotation()
+    {
+
+    }
 }
